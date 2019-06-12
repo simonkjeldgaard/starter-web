@@ -10,3 +10,6 @@ Sample website with plenty of files for demos
 ## COPYRIGHT
 
 COPYRIIIGHTTTTT
+
+## ALL RIGHT
+ALL RIGHTTTT
