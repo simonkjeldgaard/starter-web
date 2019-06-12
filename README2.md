@@ -8,6 +8,9 @@ This is an example ...
 
 ## Purpose
 
+Purpose is ...
+
 ## Deployment
+Deployment lol..
 
 ## How To Contribute
